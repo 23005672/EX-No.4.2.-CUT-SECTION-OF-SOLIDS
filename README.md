@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![Riya exp 4 2 Drawing v1  new_page-0001](https://github.com/23005672/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138971519/66ac21a2-d121-464f-9d3a-0892e2527c3b)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
